@@ -20,8 +20,6 @@ public class GA1_Group7 {
         
         System.out.printf("Cone Volume: %.4f\n" , cone.calculateVolume());
         System.out.printf("Cone Surface Area: %.4f\n", cone.calculateSurfaceArea());
-        
-        
     }
 
 }
